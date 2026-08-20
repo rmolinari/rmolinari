@@ -13,7 +13,7 @@ PayPal. I have a Ph.D. in mathematics from the University of Michigan.
 ## Selected projects
 
 ### [data_structures](https://github.com/rmolinari/data_structures)
-Ruby and C implementations of data structures including priority
+Ruby implementations (some with C extensions) of data structures including priority
 search trees, segment trees, heaps, and disjoint-set structures.
 
 ### [RPeg](https://github.com/rmolinari/rpeg)

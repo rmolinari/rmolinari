@@ -4,10 +4,10 @@ Senior software engineer with a background in backend systems,
 algorithms, optimization, and mathematically complex software.
 
 For the past fourteen years I've developed production software
-for high-stakes U.S. government auction systems, including FCC
+for high-stakes government auction systems, including FCC
 spectrum and broadband auctions and BOEM offshore-energy auctions.
 
-Earlier experience includes engineering roles at Salesforce and
+My earlier experience includes engineering roles at Salesforce and
 PayPal. I have a Ph.D. in mathematics from the University of Michigan.
 
 ## Selected projects
